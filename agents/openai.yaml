@@ -1,0 +1,14 @@
+interface:
+  display_name: Brand World Builder KI-Agent
+  short_description: Entwickelt unverwechselbare Markenwelten
+  default_prompt: Nutze $build-brand-worlds, um aus meiner Marke eine konsistente
+    visuelle und verbale Markenwelt mit klaren Gestaltungsregeln zu entwickeln.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
